@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="410.5" y="129.0">ConcreteComponent</node>
+    <node x="135.50000000000003" y="105.0">DecoratorComponent</node>
+    <node x="273.0" y="258.0">ConcreteDecorator02</node>
+    <node x="0.0" y="258.0">ConcreteDecorator01</node>
+    <node x="317.25" y="0.0">Component</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="DecoratorComponent" target="Component">
+      <point x="0.0" y="-51.5" />
+      <point x="263.0" y="80.0" />
+      <point x="350.0" y="80.0" />
+      <point x="-32.75" y="27.5" />
+    </edge>
+    <edge source="ConcreteComponent" target="Component">
+      <point x="0.0" y="-27.5" />
+      <point x="502.5" y="80.0" />
+      <point x="415.5" y="80.0" />
+      <point x="32.75" y="27.5" />
+    </edge>
+    <edge source="ConcreteDecorator02" target="DecoratorComponent">
+      <point x="0.0" y="-51.0" />
+      <point x="399.5" y="233.0" />
+      <point x="326.75" y="233.0" />
+      <point x="63.75" y="51.5" />
+    </edge>
+    <edge source="ConcreteDecorator01" target="DecoratorComponent">
+      <point x="0.0" y="-51.0" />
+      <point x="126.5" y="233.0" />
+      <point x="199.25000000000003" y="233.0" />
+      <point x="-63.75" y="51.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="267.0" y="156.0" />
+  <SelectedNodes>
+    <node>ConcreteComponent</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
