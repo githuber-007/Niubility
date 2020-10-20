@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="360.0" y="311.0">AbstractFactoryExample.production1B</node>
+    <node x="176.0" y="311.0">AbstractFactoryExample.production1A</node>
+    <node x="176.0" y="456.0">AbstractFactoryExample.production2B</node>
+    <node x="360.0" y="456.0">AbstractFactoryExample.production2A</node>
+    <node x="277.0" y="118.0">AbstractFactoryExample.FactoryA</node>
+    <node x="0.0" y="0.0">AbstractFactoryExample.Factory</node>
+    <node x="554.0" y="118.0">AbstractFactoryExample.FactoryB</node>
+    <node x="0.0" y="386.0">AbstractFactoryExample.production2</node>
+    <node x="0.0" y="241.0">AbstractFactoryExample.production1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="AbstractFactoryExample.production2A" target="AbstractFactoryExample.production2">
+      <point x="0.0" y="0.0" />
+      <point x="432.0" y="401.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="AbstractFactoryExample.production2B" target="AbstractFactoryExample.production2">
+      <point x="0.0" y="0.0" />
+      <point x="248.0" y="401.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="AbstractFactoryExample.production1A" target="AbstractFactoryExample.production1">
+      <point x="0.0" y="0.0" />
+      <point x="248.0" y="256.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="AbstractFactoryExample.production1B" target="AbstractFactoryExample.production1">
+      <point x="0.0" y="0.0" />
+      <point x="432.0" y="256.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="AbstractFactoryExample.FactoryA" target="AbstractFactoryExample.Factory">
+      <point x="0.0" y="0.0" />
+      <point x="395.5" y="39.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="AbstractFactoryExample.FactoryB" target="AbstractFactoryExample.Factory">
+      <point x="0.0" y="0.0" />
+      <point x="672.5" y="39.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Tree" zoom="1.0" x="466.0" y="267.0" />
+  <SelectedNodes>
+    <node>AbstractFactoryExample.FactoryA</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

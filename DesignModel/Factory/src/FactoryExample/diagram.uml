@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="370.73815030478784">FactoryExample.productionA</node>
+    <node x="181.0" y="0.0">FactoryExample.FactoryA</node>
+    <node x="0.0" y="0.0">FactoryExample.productionB</node>
+    <node x="185.0" y="162.09436867348222">FactoryExample.Factory</node>
+    <node x="181.0" y="324.18873734696444">FactoryExample.FactoryB</node>
+    <node x="3.999999999999986" y="185.36907515239392">FactoryExample.production</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="FactoryExample.productionB" target="FactoryExample.production">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="FactoryExample.FactoryB" target="FactoryExample.Factory">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="FactoryExample.productionA" target="FactoryExample.production">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="FactoryExample.FactoryA" target="FactoryExample.Factory">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Balloon" zoom="1.0" x="251.5" y="47.0" />
+  <SelectedNodes>
+    <node>FactoryExample.production</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
