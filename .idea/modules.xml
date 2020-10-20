@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignModel/DecoratorModel/DecoratorModel.iml" filepath="$PROJECT_DIR$/DesignModel/DecoratorModel/DecoratorModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignModel/Factory/Factory.iml" filepath="$PROJECT_DIR$/DesignModel/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Niubility.iml" filepath="$PROJECT_DIR$/Niubility.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reverse-LinkTable/Reverse-LinkTable.iml" filepath="$PROJECT_DIR$/Reverse-LinkTable/Reverse-LinkTable.iml" />
