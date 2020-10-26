@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrangement/Arrangement.iml" filepath="$PROJECT_DIR$/Arrangement/Arrangement.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignModel/DecoratorModel/DecoratorModel.iml" filepath="$PROJECT_DIR$/DesignModel/DecoratorModel/DecoratorModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignModel/Factory/Factory.iml" filepath="$PROJECT_DIR$/DesignModel/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargeNumberADD/LargeNumberADD.iml" filepath="$PROJECT_DIR$/LargeNumberADD/LargeNumberADD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Niubility.iml" filepath="$PROJECT_DIR$/Niubility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignModel/ProxyModel/ProxyModel.iml" filepath="$PROJECT_DIR$/DesignModel/ProxyModel/ProxyModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reverse-LinkTable/Reverse-LinkTable.iml" filepath="$PROJECT_DIR$/Reverse-LinkTable/Reverse-LinkTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignModel/SingletonModel/SingletonModel.iml" filepath="$PROJECT_DIR$/DesignModel/SingletonModel/SingletonModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数字分类/数字分类.iml" filepath="$PROJECT_DIR$/数字分类/数字分类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/福尔摩斯的约会密码/福尔摩斯的约会密码.iml" filepath="$PROJECT_DIR$/福尔摩斯的约会密码/福尔摩斯的约会密码.iml" />
     </modules>
   </component>
 </project>
